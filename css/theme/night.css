@@ -9,14 +9,17 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #111;
-  background-color: #111; }
+
+  background-image: url("../img/games2.jpg");
+  background-size: cover;
+  
+}
 
 .reveal {
   font-family: "Open Sans", sans-serif;
   font-size: 40px;
   font-weight: normal;
-  color: #eee; }
+  color: whitesmoke }
 
 ::selection {
   color: #fff;
